@@ -2,13 +2,12 @@
 PHP Library for working with SMS activation services
 
 ## Supported sevices
-* [sms-reg.com](http://sms-reg.com) ([API Documentation](http://sms-reg.com/docs/API.html))
-* [getsms.online](https://getsms.online) ([API Documentation](https://getsms.online/ru/api.html))
-* [onlinesim.ru](http://onlinesim.ru) ([API Documentation](http://onlinesim.ru/docs/api/ru))
-* [sms-activate.ru](http://sms-activate.ru) ([API Documentation](http://sms-activate.ru/index.php?act=api))
-* [sms-area.org](http://sms-area.org) ([API Documentation](http://sms-area.org/api.txt))
-* [smslike.ru](https://smslike.ru) ([API Documentation](https://smslike.ru/?action=cp&page=api))
-* [smsvk.net](http://smsvk.net) ([API Documentation](http://smsvk.net/api.html))
+* [sms-reg.com](https://sms-reg.com) ([API Documentation](https://sms-reg.com/docs/API.html))
+* [smsbower.com](https://smsbower.com) ([API Documentation](https://smsbower.com/api))
+* [getsms.online](https://getsms.online) ([API Documentation](https://getsms.online/en/api.html))
+* [onlinesim.io](https://onlinesim.io) ([API Documentation](https://onlinesim.io/docs/api))
+* [sms-activate.org](https://sms-activate.org) ([API Documentation](https://sms-activate.org/en/api2))
+* [sms-area.org](https://sms-area.org) ([API Documentation](https://sms-area.org/api/documentation.html))
 
 ## Instalation
    ```
